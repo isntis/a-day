@@ -7,3 +7,5 @@ x
 x
 
 08, Jun
+
+Creating a new branch is quick.
